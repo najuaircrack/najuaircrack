@@ -9,7 +9,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
 
 -  **17 y/o developer** from Kerala, India  
-- 🛠 Building bots, infra tools, and backend systems  
+-  Building bots, infra tools, and backend systems  
 -  Founder of [MalluCloud](https://mallucloud.in) – simple hosting for devs & gamers  
 -  Self-taught in C++, Node.js, Linux, TypeScript, MySQL  
 -  Passionate about ethical hacking, scripting & automation  
@@ -20,12 +20,10 @@
 ##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,nodejs,ts,java,py,bash,mysql,mongodb,linux,docker,git,html,tailwind,vscode,pawn" />
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,ts,java,py,bash,mysql,linux,docker,git,html,tailwind,vscode,php,git,cmake-dark" />
 </p>
 
 ---
-
-
 
 
 ## GitHub Stats
@@ -37,7 +35,7 @@
 
 ---
 
-## 🔗 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://mallucloud.in"><img src="https://img.shields.io/badge/🌐 Website-121212?style=for-the-badge&logo=firefox&logoColor=white"></a>
@@ -47,6 +45,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
