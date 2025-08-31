@@ -10,7 +10,6 @@
 
 -  **17 y/o developer** from Kerala, India  
 -  Building bots, infra tools, and backend systems  
--  Developer of [MalluCloud](https://mallucloud.in) – simple hosting for devs & gamers  
 -  Self-taught in C++, Node.js, Linux, TypeScript, MySQL  
 -  Passionate about ethical hacking, scripting & automation  
 -  Currently learning reverse engineering & buffer overflows
