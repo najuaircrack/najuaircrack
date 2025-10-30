@@ -85,9 +85,7 @@ Advanced penetration testing methodologies, reverse engineering complex applicat
   </a>
   
   <br />
-  
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=najuaircrack&theme=tokyonight&border_radius=12&hide_border=true" />
-  
+
   <br />
   
   <img src="https://github-profile-trophy.vercel.app/?username=najuaircrack&theme=onedark&no-frame=true&row=2&column=4" />
