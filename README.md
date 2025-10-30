@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D4FF,100:0080FF&height=160&section=header&text=Naju%20Mohan&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20Security%20Enthusiast&descSize=18&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D4FF,100:0080FF&height=160&section=header&text=Najwan&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20Security%20Enthusiast&descSize=18&descAlignY=70" />
   
   <h3>17 Year Old Developer from Kerala, India</h3>
   
@@ -8,7 +8,7 @@
 
 ---
 
-## Professional Profile
+## Profile
 
 <img align="right" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="280" style="border-radius: 12px;" />
 
@@ -32,7 +32,7 @@ Advanced penetration testing methodologies, reverse engineering complex applicat
 
 ### Programming & Markup Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,rust,py,js,ts,php,go,ruby,swift,kotlin,dart,html,css,md,latex" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,rust,py,js,ts,php,go,ruby,swift,kotlin,dart,html,css,md" />
 </p>
 
 ### Backend Technologies
@@ -70,9 +70,7 @@ Advanced penetration testing methodologies, reverse engineering complex applicat
   <img src="https://skillicons.dev/icons?i=bash,powershell,regex,cmake,gradle,maven,npm,yarn,postgresql,mongodb,redis" />
 </p>
 
-### Additional Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,blender,figma,sketch,xd,unity,unreal,stackoverflow,linkedin,twitter,discord" />
+
 </p>
 
 ---
