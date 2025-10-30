@@ -42,7 +42,7 @@ Advanced penetration testing methodologies, reverse engineering complex applicat
 
 ### Database Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,supabase,oracle,mariadb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,supabase" />
 </p>
 
 ### Frontend Technologies
@@ -52,7 +52,7 @@ Advanced penetration testing methodologies, reverse engineering complex applicat
 
 ### Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,digitalocean,heroku,netlify,vercel,docker,kubernetes,githubactions,jenkins,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,heroku,netlify,vercel,docker,kubernetes,githubactions,jenkins,terraform,ansible" />
 </p>
 
 ### Development Tools
