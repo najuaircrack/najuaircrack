@@ -57,7 +57,7 @@ Advanced penetration testing methodologies, reverse engineering complex applicat
 
 ### Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,eclipse,androidstudio,intellij,pycharm,webstorm,postman,insomnia" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,eclipse,androidstudio,pycharm,webstorm,postman,insomnia" />
 </p>
 
 ### Operating Systems & Platforms
