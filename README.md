@@ -62,7 +62,7 @@ Advanced penetration testing methodologies, reverse engineering complex applicat
 
 ### Operating Systems & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,windows,macos,android,ios,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,windows" />
 </p>
 
 ### Security & Testing Tools
