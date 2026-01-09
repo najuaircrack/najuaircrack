@@ -1,113 +1,115 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Najwan%20KC&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20%26%20Backend%20Engineering&descSize=20&descAlignY=60" />
   
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D4FF,100:0080FF&height=160&section=header&text=Najwan&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20%26%20Systems%20Developer&descSize=18&descAlignY=70" />
+  <h3>Building Scalable Infrastructure • Security-Focused Development</h3>
   
-  <h3>Building reliable systems from Kerala, India</h3>
-  
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=najuaircrack&theme=dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" height="28" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## Profile
+## 🧠 Systems Philosophy
 
-<img align="right" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="280" style="border-radius: 12px;" />
+> *"Complexity should be managed in the architecture, not in the code."*
 
-Backend and systems developer with a focus on scalable architecture, infrastructure, and security. I build robust APIs, design efficient data models, and automate workflows, with a strong interest in low-level programming and security fundamentals.
+I specialize in designing and implementing robust backend systems with a focus on **performance, security, and maintainability**. My approach combines modern development practices with proven systems engineering principles.
 
-**Professional Focus:**
-- Backend Architecture & Distributed Systems
-- API Design & Microservices
-- Database Engineering & Performance
-- Linux Systems & Network Programming
-- Security-Conscious Development
-- Automation & DevOps Practices
-
-**Current Projects:**
-Developing high-performance backend services, exploring systems programming, and contributing to open-source security tooling.
+### Core Engineering Domains
+- **Backend Architecture**: Microservices, event-driven systems, API design
+- **Data Engineering**: OLTP/OLAP systems, query optimization, data pipelines
+- **Infrastructure**: Container orchestration, cloud-native development, IaC
+- **Security**: Defense in depth, secure coding practices, system hardening
 
 ---
 
-## Technical Stack
+## 🛠 Technical Arsenal
 
-### Programming & Systems Languages
+### Systems & Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,rust,py,js,ts,php,go,ruby,swift,kotlin,dart,html,css,md" />
+  <img src="https://skillicons.dev/icons?i=cpp,rust,go,py,java,nodejs,ts" />
 </p>
 
-### Backend & Application Frameworks
+### Databases & Storage Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,laravel,rails,fastapi,graphql,nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq" />
 </p>
 
-### Data Layer & Storage
+### Infrastructure & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,terraform,linux,nginx" />
 </p>
 
-### Cloud & DevOps
+### Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,docker,kubernetes,githubactions,jenkins,terraform,ansible,linux,bash" />
-</p>
-
-### Development Toolchain
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,express,nestjs,graphql,git,vscode,postman" />
 </p>
 
 ---
 
-## Development Analytics
+## 📊 Engineering Metrics
 
 <div align="center">
   
+  ### Code Contributions
   <a href="https://github.com/najuaircrack">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=najuaircrack&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=12&hide_border=true&show=reviews,discussions_started,discussions_answered" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuaircrack&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&langs_count=8" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=najuaircrack&show_icons=true&theme=dark&hide_title=true&count_private=true&include_all_commits=true&border_radius=12&hide_border=true&bg_color=0d1117" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuaircrack&layout=compact&theme=dark&border_radius=12&hide_border=true&langs_count=8&bg_color=0d1117&exclude_repo=dotfiles,config" />
   </a>
   
-  <br />
+  ### Development Consistency
+  <img src="https://github-profile-trophy.vercel.app/?username=najuaircrack&theme=darkhub&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=najuaircrack&theme=onedark&no-frame=true&row=2&column=4" />
-
 </div>
 
 ---
 
-## Development Activity
+## 🔄 Development Rhythm
 
 <div align="center">
   
-  [![Naju's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najuaircrack&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true&custom_title=Monthly%20Development%20Activity)](https://github.com/najuaircrack)
+  [![Naju's Engineering Activity](https://github-readme-activity-graph.vercel.app/graph?username=najuaircrack&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=System%20Development%20Activity&line=58a6ff&point=1f6feb&area_color=58a6ff)](https://github.com/najuaircrack)
   
 </div>
 
 ---
 
-## Professional Connections
+## 📍 Current Focus Areas
+
+- **High-Performance Backend Systems**: Optimizing latency and throughput
+- **Distributed Systems Patterns**: Consensus, replication, fault tolerance
+- **Security Engineering**: Application and infrastructure security
+- **Developer Tooling**: Building tools that improve development workflows
+
+---
+
+## 📬 Connect for Engineering Discussions
 
 <div align="center">
   
   <a href="https://naju.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000" />
   </a>
-  <a href="mailto:kcnajwan7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:kcnajwan7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="https://discord.com/users/yourid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  
+  <br /><br />
+  
+  <img src="https://komarev.com/ghpvc/?username=najuaircrack&color=blue&style=flat-square&label=PROFILE+VIEWS" />
   
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&reversal=true" />
   
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0080FF,100:00D4FF&height=120&section=footer" />
-  
-  <img src="https://komarev.com/ghpvc/?username=najuaircrack&color=0080FF&style=for-the-badge&label=VISITORS" />
-  
+  <sub><i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i></sub>
 </div>
