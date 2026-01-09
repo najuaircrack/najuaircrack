@@ -1,8 +1,8 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D4FF,100:0080FF&height=160&section=header&text=Najwan&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20Security%20Enthusiast&descSize=18&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D4FF,100:0080FF&height=160&section=header&text=Najwan&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20%26%20Systems%20Developer&descSize=18&descAlignY=70" />
   
-  <h3>17 Year Old Developer from Kerala, India</h3>
+  <h3>Building reliable systems from Kerala, India</h3>
   
 </div>
 
@@ -12,65 +12,46 @@
 
 <img align="right" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="280" style="border-radius: 12px;" />
 
-A passionate backend developer and cybersecurity enthusiast with expertise in building scalable systems and security solutions. Currently focused on advancing skills in ethical hacking, reverse engineering, and exploit development while contributing to open-source projects and building enterprise-level applications.
+Backend and systems developer with a focus on scalable architecture, infrastructure, and security. I build robust APIs, design efficient data models, and automate workflows, with a strong interest in low-level programming and security fundamentals.
 
-**Core Competencies:**
-- Backend System Architecture & Development
-- Database Design & Optimization  
-- API Development & Microservices
-- Security Testing & Vulnerability Assessment
-- Automation & Scripting
-- Cloud Infrastructure & DevOps
-- Bot Development & System Integration
+**Professional Focus:**
+- Backend Architecture & Distributed Systems
+- API Design & Microservices
+- Database Engineering & Performance
+- Linux Systems & Network Programming
+- Security-Conscious Development
+- Automation & DevOps Practices
 
-**Current Focus:**
-Advanced penetration testing methodologies, reverse engineering complex applications, developing security tools, and mastering low-level programming for exploit development.
+**Current Projects:**
+Developing high-performance backend services, exploring systems programming, and contributing to open-source security tooling.
 
 ---
 
 ## Technical Stack
 
-### Programming & Markup Languages
+### Programming & Systems Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,rust,py,js,ts,php,go,ruby,swift,kotlin,dart,html,css,md" />
 </p>
 
-### Backend Technologies
+### Backend & Application Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,laravel,rails,fastapi,graphql,nginx,apache" />
 </p>
 
-### Database Systems
+### Data Layer & Storage
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,supabase" />
 </p>
 
-### Frontend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,nuxtjs,redux,jquery,bootstrap,tailwind,sass,webpack,vite" />
-</p>
-
 ### Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,heroku,netlify,vercel,docker,kubernetes,githubactions,jenkins,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,docker,kubernetes,githubactions,jenkins,terraform,ansible,linux,bash" />
 </p>
 
-### Development Tools
+### Development Toolchain
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,eclipse,androidstudio,pycharm,webstorm,postman" />
-</p>
-
-### Operating Systems & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,windows" />
-</p>
-
-### Security & Testing Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,powershell,regex,cmake,gradle,maven,npm,yarn,postgresql,mongodb,redis" />
-</p>
-
-
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,postman" />
 </p>
 
 ---
@@ -84,8 +65,6 @@ Advanced penetration testing methodologies, reverse engineering complex applicat
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuaircrack&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&langs_count=8" />
   </a>
   
-  <br />
-
   <br />
   
   <img src="https://github-profile-trophy.vercel.app/?username=najuaircrack&theme=onedark&no-frame=true&row=2&column=4" />
@@ -119,12 +98,6 @@ Advanced penetration testing methodologies, reverse engineering complex applicat
   </a>
   <a href="https://discord.com/users/yourid" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/yourid" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
   
 </div>
