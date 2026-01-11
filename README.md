@@ -2,7 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D4FF,100:0080FF&height=160&section=header&text=Najwan&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20Security%20Enthusiast&descSize=18&descAlignY=70" />
   
-  <h3>17 Year Old Developer from Kerala, India</h3>
+  <h3>Developer from Kerala, India</h3>
   
 </div>
 
