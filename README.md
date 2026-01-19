@@ -60,7 +60,7 @@ I also work hands-on with **firewalling and traffic control** on Linux servers a
 
 ### Backend & Server Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,nginx,apache,vite,nextjs" />
 </p>
 
 ### Databases & Caching
@@ -70,7 +70,7 @@ I also work hands-on with **firewalling and traffic control** on Linux servers a
 
 ### Infrastructure & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,cloudflare,githubactions,aws" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,debian,docker,cloudflare,githubactions,aws" />
 </p>
 
 ### Firewalling & System Security
@@ -81,7 +81,7 @@ I also work hands-on with **firewalling and traffic control** on Linux servers a
 
 ### Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,cmake,sublime" />
 </p>
 
 ---
