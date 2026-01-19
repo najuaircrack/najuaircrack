@@ -1,140 +1,154 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D4FF,100:0080FF&height=160&section=header&text=Najwan&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20Security%20Enthusiast&descSize=18&descAlignY=70" />
-  
-  <h3>Developer from Kerala, India</h3>
-  
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D4FF,100:0080FF&height=160&section=header&text=Najwan&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20%26%20Systems%20Developer%20%7C%20Security-Aware%20Engineering&descSize=18&descAlignY=70" />
+
+<h3>Developer from Kerala, India</h3>
+
 </div>
 
 ---
 
 ## Profile
 
-<img align="right" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="280" style="border-radius: 12px;" />
+<img align="right" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="260" />
 
-A passionate backend developer and cybersecurity enthusiast with expertise in building scalable systems and security solutions. Currently focused on advancing skills in ethical hacking, reverse engineering, and exploit development while contributing to open-source projects and building enterprise-level applications.
+I’m a **backend & systems developer** focused on building **reliable server side systems**, automation tools, and infrastructure-aware applications.
 
-**Core Competencies:**
-- Backend System Architecture & Development
-- Database Design & Optimization  
-- API Development & Microservices
-- Security Testing & Vulnerability Assessment
-- Automation & Scripting
-- Cloud Infrastructure & DevOps
-- Bot Development & System Integration
+My work revolves around:
+- Backend APIs & services
+- Database-driven systems
+- Automation & scripting
+- Linux server management
+- Performance optimization
+- Security-aware system design
 
-**Current Focus:**
-Advanced penetration testing methodologies, reverse engineering complex applications, developing security tools, and mastering low-level programming for exploit development.
+I also work hands-on with **firewalling and traffic control** on Linux servers and actively learn **application and infrastructure security** as part of my long-term growth.
+
+---
+
+## Core Expertise
+
+- Backend System Design & Development  
+- Database Design, Optimization & Caching  
+- REST APIs & Service Integration  
+- Automation, Scripting & Scheduled Jobs  
+- Linux Server Administration  
+- Firewalling & Traffic Control (Netfilter)  
+- Security aware Backend Engineering  
+- Bot Development & Event Driven Systems  
+
+---
+
+##  Current Focus
+
+- Building productionnready backend systems  
+- Reducing CPU, memory, and database overhead  
+- Automating server operations and monitoring  
+- Designing firewall rules and traffic filtering  
+- Hardening Linux services and exposed ports  
+- Learning reverse engineering & low level internals (ongoing)  
+- Publishing well documented public projects gradually  
 
 ---
 
 ## Technical Stack
 
-### Programming & Markup Languages
+### Core Languages (Hands-on Experience)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,rust,py,js,ts,php,go,ruby,swift,kotlin,dart,html,css,md" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,php,c,cpp,bash" />
 </p>
 
-### Backend Technologies
+### Backend & Server Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,laravel,rails,fastapi,graphql,nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,nginx,apache" />
 </p>
 
-### Database Systems
+### Databases & Caching
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
 </p>
 
-### Frontend Technologies
+### Infrastructure & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,nuxtjs,redux,jquery,bootstrap,tailwind,sass,webpack,vite" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,cloudflare,githubactions,aws" />
 </p>
 
-### Cloud & DevOps
+### Firewalling & System Security
+- Netfilter (iptables / nftables)  
+- Stateful packet filtering  
+- Rate limiting & abuse mitigation  
+- Port hardening & service isolation  
+
+### Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,heroku,netlify,vercel,docker,kubernetes,githubactions,jenkins,terraform,ansible" />
-</p>
-
-### Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,eclipse,androidstudio,pycharm,webstorm,postman" />
-</p>
-
-### Operating Systems & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,windows" />
-</p>
-
-### Security & Testing Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,powershell,regex,cmake,gradle,maven,npm,yarn,postgresql,mongodb,redis" />
-</p>
-
-
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-## Development Analytics
+## Security
+
+- Security aware backend and infrastructure design  
+- Firewall configuration using Netfilter  
+- Traffic filtering, rate limiting, and access control  
+- Security testing in self built and test environments  
+- Familiar with common web & infrastructure attack vectors  
+- Actively learning reverse engineering and exploit fundamentals  
+
+> Focused on **practical security** reducing attack surface and building systems that fail safely.
+
+---
+
+## Active Projects (In Progress)
+
+- **Backend Automation Toolkit**
+  - Scripts for backups, monitoring, and server maintenance  
+  - Focus on reliability and minimal resource usage  
+
+- **Firewall & Traffic Control Experiments**
+  - Netfilter rule design using iptables / nftables  
+  - Rate limiting, port hardening, and abuse mitigation  
+
+- **Infrastructure & Monitoring Utilities**
+  - Network diagnostics, latency tracking, and logging  
+  - Async processing and reporting  
+
+> Public repositories will be added as these projects mature.
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  
-  <a href="https://github.com/najuaircrack">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=najuaircrack&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=12&hide_border=true&show=reviews,discussions_started,discussions_answered" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuaircrack&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&langs_count=8" />
-  </a>
-  
-  <br />
 
-  <br />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=najuaircrack&theme=onedark&no-frame=true&row=2&column=4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=najuaircrack&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuaircrack&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 ---
 
-## Development Activity
+## Connect
 
 <div align="center">
-  
-  [![Naju's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najuaircrack&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true&custom_title=Monthly%20Development%20Activity)](https://github.com/najuaircrack)
-  
-</div>
 
----
+<a href="https://naju.me">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+<a href="mailto:kcnajwan7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## Professional Connections
-
-<div align="center">
-  
-  <a href="https://naju.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="mailto:kcnajwan7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/yourid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/yourid" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  
 </div>
 
 ---
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0080FF,100:00D4FF&height=120&section=footer" />
-  
-  <img src="https://komarev.com/ghpvc/?username=najuaircrack&color=0080FF&style=for-the-badge&label=VISITORS" />
-  
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0080FF,100:00D4FF&height=120&section=footer" />
+<img src="https://komarev.com/ghpvc/?username=najuaircrack&color=0080FF&style=for-the-badge&label=VISITORS" />
+
 </div>
