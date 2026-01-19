@@ -60,7 +60,7 @@ I also work hands-on with **firewalling and traffic control** on Linux servers a
 
 ### Backend & Server Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,nginx,apache,vite,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,nginx,vite,nextjs" />
 </p>
 
 ### Databases & Caching
