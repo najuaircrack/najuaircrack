@@ -55,7 +55,7 @@ I also work hands-on with **firewalling and traffic control** on Linux servers a
 
 ### Core Languages (Hands-on Experience)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,php,c,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,php,c,cpp,bash,rust" />
 </p>
 
 ### Backend & Server Technologies
