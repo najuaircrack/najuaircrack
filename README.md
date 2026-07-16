@@ -18,18 +18,42 @@
 
 ### About
 
-I'm a backend developer in Kerala, India. Most of my day-to-day is APIs, databases, and the Linux boxes underneath them — the unglamorous work of keeping things online when traffic spikes or something upstream falls over.
+I build backend systems that stay online when things get messy — APIs, databases, and the Linux boxes that run them. Lately that's expanded in two directions: understanding how language models actually work by building small transformers from scratch, and learning to break into systems safely so I can defend them better.
 
-Outside of that I've been chasing two things that don't usually sit on the same resume. One is understanding language models properly, from the matrix multiplications up, instead of just wiring up someone else's API — that's what [Nanoforge](https://github.com/najuaircrack/Nanoforge) is for. The other is offensive security. I've spent years on the defensive side — firewalls, rate limits, service hardening — and at some point I realized I couldn't reason well about defense without understanding how attacks actually work, so I'm now working through CTFs and the tooling that goes with them.
+I split my time between three things: backend engineering, hardening Linux servers with iptables/nftables, and working through offensive security fundamentals — CTFs, network scanning, and web app testing — as the counterpart to the defensive side I already have hands-on experience with.
 
 <br>
 
-**Right now:**
-- Shipping backend systems, and pushing [Nanoforge](https://github.com/najuaircrack/Nanoforge) further as a from-scratch transformer/LLM framework
-- Hand-writing firewall rules, rate limits, and service isolation on the Linux servers I run
-- Working through Nmap, Burp Suite, and Wireshark on HTB/THM boxes to build up the offensive side properly
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Say hi at [kcnajwan7@gmail.com](mailto:kcnajwan7@gmail.com).
+**🔭 Currently building**
+Production backend systems, plus a from-scratch transformer/LLM framework ([Nanoforge](https://github.com/najuaircrack/Nanoforge))
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Currently hardening**
+Firewall rules, rate limits, and exposed services on Linux boxes
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚔️ Currently learning**
+Offensive security — CTFs on HTB/THM, Nmap, Burp Suite, Wireshark — to complement the defensive side
+
+</td>
+<td width="50%" valign="top">
+
+**💬 Reach me at**
+<a href="mailto:kcnajwan7@gmail.com">kcnajwan7@gmail.com</a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -64,17 +88,27 @@ Say hi at [kcnajwan7@gmail.com](mailto:kcnajwan7@gmail.com).
 
 <br>
 
+## AI / LLM Systems
+
+Learning how language models work from the inside, not just calling someone else's API.
+
+- Building transformer architectures from scratch in raw Python/NumPy — attention, backprop, tokenization, training loops
+- No framework dependency by design — the point right now is understanding internals, not shipping fast
+- Ongoing work lives in [Nanoforge](https://github.com/najuaircrack/Nanoforge), an experimental local transformer framework for training small language models and code-focused AI systems from scratch
+
+<br>
+
 ## Security Focus
 
-Defense is where I've actually shipped things. Offense is newer, and I'm deliberately building it the slow way — real boxes and real tools, not just reading write-ups.
+Defense is where I have hands-on, production experience. Offense is newer, and I'm deliberately building it up through CTFs and real tooling rather than just reading about it.
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
 **🛡️ Defensive (hands-on)**
-- Netfilter rules (iptables/nftables) written and maintained by hand, not left on defaults
-- Rate limiting to stop abuse before it reaches the application layer
+- Netfilter rules (iptables/nftables) written and maintained by hand instead of relying on defaults
+- Rate limiting to block abuse before it reaches the application layer
 - Port hardening and service isolation
 - Sandboxed testing before anything touches production
 
@@ -91,53 +125,54 @@ Defense is where I've actually shipped things. Offense is newer, and I'm deliber
 </tr>
 </table>
 
-Not trying to collect buzzwords here — the point is understanding both sides well enough to build things that fail safely.
+The goal isn't to collect buzzwords — it's to understand both sides well enough to build things that fail safely.
 
 <br>
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🧠 [Nanoforge](https://github.com/najuaircrack/Nanoforge)
-
-A GPT-style decoder-only transformer built from raw Python and NumPy — no framework doing the hard parts for me. This is where I actually learn how attention, backprop, and tokenization work, by implementing them rather than importing them.
-
-What's in it: rotary position embeddings, RMSNorm, SwiGLU/GEGLU feed-forward blocks, grouped-query attention with KV caching, sliding-window attention, and an optional mixture-of-experts path, with Flash Attention through PyTorch's SDPA when it's available. Training supports mixed precision, gradient accumulation and checkpointing, AdamW with cosine/linear/constant schedules, EMA, early stopping, and NaN/Inf health checks, plus a small local dashboard so I can watch loss curves without leaving the terminal. Tokenization covers a byte tokenizer (with an optional Rust backend for speed), HuggingFace BPE, a dependency-free pure-Python BPE fallback, and SentencePiece — all feeding into packed memmap datasets with boundary-aware packing for chat data. On the inference side there's streaming generation, a chat CLI, and the usual sampling toolbox: top-k, top-p, temperature, repetition penalties, mirostat.
-
-It's still pre-alpha and the APIs shift often — that's the deal with a project whose whole point is learning by building, not chasing benchmarks against vLLM or Megatron.
+Experimental local transformer framework for training small language models, chat assistants, and code-focused AI systems from scratch, built in raw Python/NumPy for learning and fast LLM experimentation.
 
 <img src="https://img.shields.io/github/stars/najuaircrack/Nanoforge?style=flat-square&color=2C5364&label=stars" /> <img src="https://img.shields.io/github/languages/top/najuaircrack/Nanoforge?style=flat-square&color=2C5364" />
 
-<br>
+</td>
+<td width="50%" valign="top">
 
 ### 🗄️ [pterodactyl-mysql-backup](https://github.com/najuaircrack/pterodactyl-mysql-backup)
-
-A MySQL backup manager for Pterodactyl game panels, built as a Blueprint extension — because cron scripts bolted onto a panel are exactly the kind of thing that silently breaks. Backups run through Laravel's queue system rather than an external cron job, and a backup record is created the moment it's queued, so both scheduled and manual runs show up in the panel immediately instead of appearing only once they finish. `mysqldump` output streams straight into a compressed `.sql.gz`, with optional AES-256-GCM encryption on top.
-
-The part I spent the most time on is storage. Users get one-click OAuth for Google Drive, Dropbox, and OneDrive — the admin registers a single app per provider, so end users never see a client secret, they just click Connect. Beyond that there's native WebDAV, S3-compatible storage, FTP/FTPS/SFTP, and rclone-backed support for Box, MEGA, pCloud, and Yandex Disk for anyone who wants full control. Storage quotas are checked in three places — before a backup is even queued, after the dump but before upload, and again after upload with automatic pruning of the oldest backups — so nothing quietly fills a disk. Retention, restore with an automatic safety backup, per-server policies, and admin-side audit logs round out the rest.
-
-Security-wise: credentials and OAuth tokens are encrypted at rest, OAuth state is validated against the session CSRF token, webhook/WebDAV URLs are blocked from resolving to private or link-local IPs unless explicitly allowed, and rclone is restricted to named remotes only — the `local` rclone type is blocked entirely so it can't be used to reach the panel's own filesystem.
+MySQL backup manager built as a Blueprint extension for Pterodactyl Panel. Handles scheduled backups with Google Drive OAuth, S3, and SFTP targets, plus encryption and retention policies out of the box.
 
 <img src="https://img.shields.io/github/stars/najuaircrack/pterodactyl-mysql-backup?style=flat-square&color=2C5364&label=stars" /> <img src="https://img.shields.io/github/languages/top/najuaircrack/pterodactyl-mysql-backup?style=flat-square&color=2C5364" />
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎮 [AKRP V5](https://github.com/najuaircrack/AKRP-V5)
-
-An Open.mp/SA-MP roleplay gamemode built and maintained for the All Kerala Roleplay community. Tuned to comfortably run around 70 concurrent players on a mid-range VPS, and released publicly to keep the codebase transparent after attempted leaks.
+Open.mp/SA-MP roleplay gamemode built and maintained for the All Kerala Roleplay community. Tuned to comfortably run around 70 concurrent players on a mid-range VPS, and released publicly to keep the codebase transparent after attempted leaks.
 
 <img src="https://img.shields.io/github/stars/najuaircrack/AKRP-V5?style=flat-square&color=2C5364&label=stars" /> <img src="https://img.shields.io/github/languages/top/najuaircrack/AKRP-V5?style=flat-square&color=2C5364" />
 
-<br>
+</td>
+<td width="50%" valign="top">
 
 ### 📡 [Nettop](https://github.com/najuaircrack/Nettop)
-
-A lightweight, Linux-first network monitoring TUI with a scriptable CLI controller. Captures live traffic, ranks source IPs, tracks packet and byte rates, shows MAC activity, and resolves IP geolocation.
+Lightweight, Linux-first network monitoring TUI with a scriptable CLI controller. Captures live traffic, ranks source IPs, tracks packet and byte rates, shows MAC activity, and resolves IP geolocation.
 
 <img src="https://img.shields.io/github/stars/najuaircrack/Nettop?style=flat-square&color=2C5364&label=stars" /> <img src="https://img.shields.io/github/languages/top/najuaircrack/Nettop?style=flat-square&color=2C5364" />
 
+</td>
+</tr>
+</table>
+
 <br>
 
-## GitHub Stats
+## GitHub stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=najuaircrack&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" />
@@ -146,7 +181,7 @@ A lightweight, Linux-first network monitoring TUI with a scriptable CLI controll
 
 <br>
 
-## Let's Talk
+## Let's talk
 
 <div align="center">
 
