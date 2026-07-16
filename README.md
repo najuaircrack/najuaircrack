@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Naju&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%C2%B7%20Kerala,%20India&descSize=19&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Naju&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%C2%B7%20AI%2FLLM%20Systems%20%C2%B7%20Security%20Enthusiast%20%C2%B7%20Kerala,%20India&descSize=16&descAlignY=58&animation=fadeIn" />
 
 <br>
 
@@ -18,9 +18,9 @@
 
 ### About
 
-I build backend systems that stay online when things get messy. Most of my time goes into APIs, databases, and the Linux boxes that run them, plus the firewall rules that keep the bad traffic out. I care less about chasing every new framework and more about writing services that don't fall over at 3am.
+I build backend systems that stay online when things get messy — APIs, databases, and the Linux boxes that run them. Lately that's expanded in two directions: understanding how language models actually work by building small transformers from scratch, and learning to break into systems safely so I can defend them better.
 
-Right now I split my time between three things: shipping backend projects, tightening up server security with iptables/nftables, and slowly working through the basics of reverse engineering because I like understanding systems from the inside out.
+I split my time between three things: backend engineering, hardening Linux servers with iptables/nftables, and working through offensive security fundamentals — CTFs, network scanning, and web app testing — as the counterpart to the defensive side I already have hands-on experience with.
 
 <br>
 
@@ -29,7 +29,7 @@ Right now I split my time between three things: shipping backend projects, tight
 <td width="50%" valign="top">
 
 **🔭 Currently building**
-Production-ready backend systems and the automation around them
+Production backend systems, plus a from-scratch transformer/LLM framework ([Nanoforge](https://github.com/najuaircrack/Nanoforge))
 
 </td>
 <td width="50%" valign="top">
@@ -42,8 +42,8 @@ Firewall rules, rate limits, and exposed services on Linux boxes
 <tr>
 <td width="50%" valign="top">
 
-**📚 Currently learning**
-Reverse engineering and low-level internals
+**⚔️ Currently learning**
+Offensive security — CTFs on HTB/THM, Nmap, Burp Suite, Wireshark — to complement the defensive side
 
 </td>
 <td width="50%" valign="top">
@@ -66,7 +66,11 @@ Reverse engineering and low-level internals
 </tr>
 <tr>
 <td valign="top"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,nginx,nextjs,vite" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,nginx" /></td>
+</tr>
+<tr>
+<td valign="top"><b>Web / Frontend tooling</b></td>
+<td><img src="https://skillicons.dev/icons?i=nextjs,vite" /></td>
 </tr>
 <tr>
 <td valign="top"><b>Data</b></td>
@@ -74,28 +78,54 @@ Reverse engineering and low-level internals
 </tr>
 <tr>
 <td valign="top"><b>Infra</b></td>
-<td><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,cloudflare,githubactions,aws,git,postman" /></td>
+<td><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,cloudflare,githubactions,aws,git" /></td>
+</tr>
+<tr>
+<td valign="top"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=postman" /></td>
 </tr>
 </table>
 
 <br>
 
+## AI / LLM Systems
+
+Learning how language models work from the inside, not just calling someone else's API.
+
+- Building transformer architectures from scratch in raw Python/NumPy — attention, backprop, tokenization, training loops
+- No framework dependency by design — the point right now is understanding internals, not shipping fast
+- Ongoing work lives in [Nanoforge](https://github.com/najuaircrack/Nanoforge), an experimental local transformer framework for training small language models and code-focused AI systems from scratch
+
+<br>
+
 ## Security Focus
 
-I spend a fair bit of time hardening the servers I run rather than just writing the code that sits on them.
+Defense is where I have hands-on, production experience. Offense is newer, and I'm deliberately building it up through CTFs and real tooling rather than just reading about it.
 
 <table>
 <tr>
-<td>🔥 <b>Netfilter rules</b><br><sub>iptables / nftables written and maintained by hand instead of relying on defaults</sub></td>
-<td>🚧 <b>Rate limiting</b><br><sub>Blocking abuse before it ever reaches the application layer</sub></td>
-</tr>
-<tr>
-<td>🔒 <b>Port hardening</b><br><sub>Locking down exposed ports and isolating services from each other</sub></td>
-<td>🧪 <b>Sandboxed testing</b><br><sub>Everything gets tested in my own environments before touching production</sub></td>
+<td valign="top" width="50%">
+
+**🛡️ Defensive (hands-on)**
+- Netfilter rules (iptables/nftables) written and maintained by hand instead of relying on defaults
+- Rate limiting to block abuse before it reaches the application layer
+- Port hardening and service isolation
+- Sandboxed testing before anything touches production
+
+</td>
+<td valign="top" width="50%">
+
+**⚔️ Offensive (learning, active)**
+- CTFs on HackTheBox and TryHackMe
+- Network scanning and enumeration with Nmap
+- Web app testing with Burp Suite
+- Traffic analysis with Wireshark
+
+</td>
 </tr>
 </table>
 
-The goal isn't to collect security buzzwords, it's to build things that fail safely when someone inevitably tries to break them.
+The goal isn't to collect buzzwords — it's to understand both sides well enough to build things that fail safely.
 
 <br>
 
@@ -106,7 +136,7 @@ The goal isn't to collect security buzzwords, it's to build things that fail saf
 <td width="50%" valign="top">
 
 ### 🧠 [Nanoforge](https://github.com/najuaircrack/Nanoforge)
-Experimental local transformer framework for training small language models, chat assistants, and code-focused AI systems from scratch. Built for learning, research, and fast LLM experimentation without relying on someone else's black box.
+Experimental local transformer framework for training small language models, chat assistants, and code-focused AI systems from scratch, built in raw Python/NumPy for learning and fast LLM experimentation.
 
 <img src="https://img.shields.io/github/stars/najuaircrack/Nanoforge?style=flat-square&color=2C5364&label=stars" /> <img src="https://img.shields.io/github/languages/top/najuaircrack/Nanoforge?style=flat-square&color=2C5364" />
 
@@ -157,7 +187,6 @@ Lightweight, Linux-first network monitoring TUI with a scriptable CLI controller
 
 <a href="https://naju.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="mailto:kcnajwan7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
