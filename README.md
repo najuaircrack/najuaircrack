@@ -18,9 +18,9 @@
 
 ### About
 
-I build backend systems that stay online when things get messy — APIs, databases, and the Linux boxes that run them. Lately that's expanded in two directions: understanding how language models actually work by building small transformers from scratch, and learning to break into systems safely so I can defend them better.
+I build backend systems that stay online when things get messy APIs, databases, and the Linux boxes that run them. Lately that's expanded in two directions: understanding how language models actually work by building small transformers from scratch, and learning to break into systems safely so I can defend them better.
 
-I split my time between three things: backend engineering, hardening Linux servers with iptables/nftables, and working through offensive security fundamentals — CTFs, network scanning, and web app testing — as the counterpart to the defensive side I already have hands-on experience with.
+I split my time between three things: backend engineering, hardening Linux servers with iptables/nftables, and working through offensive security fundamentals  CTFs, network scanning, and web app testing  as the counterpart to the defensive side I already have hands-on experience with.
 
 <br>
 
@@ -43,7 +43,7 @@ Firewall rules, rate limits, and exposed services on Linux boxes
 <td width="50%" valign="top">
 
 **⚔️ Currently learning**
-Offensive security — CTFs on HTB/THM, Nmap, Burp Suite, Wireshark — to complement the defensive side
+Offensive security CTFs on HTB/THM, Nmap, Burp Suite, Wireshark to complement the defensive side
 
 </td>
 <td width="50%" valign="top">
@@ -92,15 +92,15 @@ Offensive security — CTFs on HTB/THM, Nmap, Burp Suite, Wireshark — to compl
 
 Learning how language models work from the inside, not just calling someone else's API.
 
-- Building transformer architectures from scratch in raw Python/NumPy — attention, backprop, tokenization, training loops
-- No framework dependency by design — the point right now is understanding internals, not shipping fast
-- Ongoing work lives in [Nanoforge](https://github.com/najuaircrack/Nanoforge), an experimental local transformer framework for training small language models and code-focused AI systems from scratch
+- Building transformer architectures from scratch in raw Python/NumPy attention, backprop, tokenization, training loops
+- No framework dependency by design  the point right now is understanding internals, not shipping fast
+- Ongoing work lives in [Nanoforge](https://github.com/najuaircrack/Nanoforge), an experimental local transformer framework for training small language models and code focused AI systems from scratch
 
 <br>
 
 ## Security Focus
 
-Defense is where I have hands-on, production experience. Offense is newer, and I'm deliberately building it up through CTFs and real tooling rather than just reading about it.
+Defense is where I have hands on, production experience. Offense is newer, and I'm deliberately building it up through CTFs and real tooling rather than just reading about it.
 
 <table>
 <tr>
@@ -136,7 +136,7 @@ The goal isn't to collect buzzwords — it's to understand both sides well enoug
 <td width="50%" valign="top">
 
 ### 🧠 [Nanoforge](https://github.com/najuaircrack/Nanoforge)
-Experimental local transformer framework for training small language models, chat assistants, and code-focused AI systems from scratch, built in raw Python/NumPy for learning and fast LLM experimentation.
+Experimental local transformer framework for training small language models, chat assistants, and code focused AI systems from scratch, built in raw Python/NumPy for learning and fast LLM experimentation.
 
 <img src="https://img.shields.io/github/stars/najuaircrack/Nanoforge?style=flat-square&color=2C5364&label=stars" /> <img src="https://img.shields.io/github/languages/top/najuaircrack/Nanoforge?style=flat-square&color=2C5364" />
 
@@ -154,7 +154,7 @@ MySQL backup manager built as a Blueprint extension for Pterodactyl Panel. Handl
 <td width="50%" valign="top">
 
 ### 🎮 [AKRP V5](https://github.com/najuaircrack/AKRP-V5)
-Open.mp/SA-MP roleplay gamemode built and maintained for the All Kerala Roleplay community. Tuned to comfortably run around 70 concurrent players on a mid-range VPS, and released publicly to keep the codebase transparent after attempted leaks.
+Open.mp/SA-MP roleplay gamemode built and maintained for the All Kerala Roleplay community. Tuned to comfortably run around 70 concurrent players on a mid range VPS, and released publicly to keep the codebase transparent after attempted leaks.
 
 <img src="https://img.shields.io/github/stars/najuaircrack/AKRP-V5?style=flat-square&color=2C5364&label=stars" /> <img src="https://img.shields.io/github/languages/top/najuaircrack/AKRP-V5?style=flat-square&color=2C5364" />
 
@@ -162,7 +162,7 @@ Open.mp/SA-MP roleplay gamemode built and maintained for the All Kerala Roleplay
 <td width="50%" valign="top">
 
 ### 📡 [Nettop](https://github.com/najuaircrack/Nettop)
-Lightweight, Linux-first network monitoring TUI with a scriptable CLI controller. Captures live traffic, ranks source IPs, tracks packet and byte rates, shows MAC activity, and resolves IP geolocation.
+Lightweight, Linux first network monitoring TUI with a scriptable CLI controller. Captures live traffic, ranks source IPs, tracks packet and byte rates, shows MAC activity, and resolves IP geolocation.
 
 <img src="https://img.shields.io/github/stars/najuaircrack/Nettop?style=flat-square&color=2C5364&label=stars" /> <img src="https://img.shields.io/github/languages/top/najuaircrack/Nettop?style=flat-square&color=2C5364" />
 
