@@ -125,7 +125,7 @@ Defense is where I have hands on, production experience. Offense is newer, and I
 </tr>
 </table>
 
-The goal isn't to collect buzzwords — it's to understand both sides well enough to build things that fail safely.
+The goal isn't to collect buzzwords it's to understand both sides well enough to build things that fail safely.
 
 <br>
 
